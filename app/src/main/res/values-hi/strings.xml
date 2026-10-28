@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OMR अभ्यास</string>
+
+    <string name="create_omr">अपनी OMR बनाएँ</string>
+    <string name="total_questions">कुल प्रश्न</string>
+    <string name="options_per_question">हर प्रश्न में विकल्प</string>
+    <string name="label_style">विकल्प का प्रकार</string>
+    <string name="start_omr">OMR शुरू करें</string>
+    <string name="recent_attempts">पिछले प्रयास</string>
+    <string name="language">भाषा</string>
+    <string name="lang_english">English</string>
+    <string name="lang_hindi">हिन्दी</string>
+    <string name="continue_draft">पिछली OMR जारी रखें</string>
+
+    <string name="submit">सबमिट करें</string>
+    <string name="attempted_count">भरे गए: %1$d / %2$d</string>
+    <string name="unattempted_dialog_title">प्रश्न छोड़ दें?</string>
+    <string name="unattempted_dialog_msg">%1$d प्रश्न अभी तक भरे नहीं गए हैं। क्या आप सबमिट करना चाहते हैं?</string>
+    <string name="cancel">रद्द करें</string>
+    <string name="yes_submit">हाँ, सबमिट करें</string>
+    <string name="question_short">प्र%1$d</string>
+
+    <string name="copy_for_ai">AI से जाँच के लिए कॉपी करें</string>
+    <string name="copy">कॉपी करें</string>
+    <string name="share">साझा करें</string>
+    <string name="copied">क्लिपबोर्ड पर कॉपी हो गया</string>
+    <string name="check_answers">उत्तर जाँचें</string>
+
+    <string name="check_mode">अपने उत्तर जाँचें</string>
+    <string name="right">सही</string>
+    <string name="wrong">गलत</string>
+    <string name="mark_all_unattempted_wrong">छूटे प्रश्नों को गलत चिह्नित करें</string>
+    <string name="see_summary">सारांश देखें</string>
+    <string name="undo">पूर्ववत करें</string>
+
+    <string name="summary">सारांश</string>
+    <string name="correct">सही</string>
+    <string name="wrong_label">गलत</string>
+    <string name="unattempted">छूटे हुए</string>
+    <string name="score">स्कोर</string>
+    <string name="accuracy">सटीकता</string>
+    <string name="new_omr">नई OMR</string>
+    <string name="review_again">दोबारा जाँचें</string>
+    <string name="wrong_questions">गलत प्रश्न</string>
+
+    <string name="back">वापस</string>
+    <string name="discard">हटाएँ</string>
+    <string name="keep_editing">संपादन जारी रखें</string>
+    <string name="discard_draft_title">ड्राफ्ट हटाएँ?</string>
+    <string name="discard_draft_msg">आपकी वर्तमान OMR मिट जाएगी।</string>
+</resources>
