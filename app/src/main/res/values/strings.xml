@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OMR Practice</string>
+
+    <!-- Home -->
+    <string name="create_omr">Create your OMR</string>
+    <string name="total_questions">Total Questions</string>
+    <string name="options_per_question">Options per Question</string>
+    <string name="label_style">Option Labels</string>
+    <string name="start_omr">Start OMR</string>
+    <string name="recent_attempts">Recent Attempts</string>
+    <string name="language">Language</string>
+    <string name="lang_english">English</string>
+    <string name="lang_hindi">हिन्दी</string>
+    <string name="continue_draft">Continue last OMR</string>
+
+    <!-- OMR sheet -->
+    <string name="submit">Submit</string>
+    <string name="attempted_count">Attempted: %1$d / %2$d</string>
+    <string name="unattempted_dialog_title">Leave Questions?</string>
+    <string name="unattempted_dialog_msg">%1$d questions are not attempted. Submit anyway?</string>
+    <string name="cancel">Cancel</string>
+    <string name="yes_submit">Yes, Submit</string>
+    <string name="question_short">Q%1$d</string>
+
+    <!-- Copy for AI -->
+    <string name="copy_for_ai">Copy for AI Check</string>
+    <string name="copy">Copy</string>
+    <string name="share">Share</string>
+    <string name="copied">Copied to clipboard</string>
+    <string name="check_answers">Check Answers</string>
+
+    <!-- Check mode -->
+    <string name="check_mode">Check Your Answers</string>
+    <string name="right">Right</string>
+    <string name="wrong">Wrong</string>
+    <string name="mark_all_unattempted_wrong">Mark unattempted as Wrong</string>
+    <string name="see_summary">See Summary</string>
+    <string name="undo">Undo</string>
+
+    <!-- Summary -->
+    <string name="summary">Summary</string>
+    <string name="correct">Correct</string>
+    <string name="wrong_label">Wrong</string>
+    <string name="unattempted">Unattempted</string>
+    <string name="score">Score</string>
+    <string name="accuracy">Accuracy</string>
+    <string name="new_omr">New OMR</string>
+    <string name="review_again">Review Again</string>
+    <string name="wrong_questions">Wrong Questions</string>
+
+    <!-- Common -->
+    <string name="back">Back</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="discard_draft_title">Discard draft?</string>
+    <string name="discard_draft_msg">Your current OMR will be lost.</string>
+</resources>
